@@ -1,3 +1,3 @@
 <?php
 echo phpinfo();
-// ARS folder
+// Majid folder
